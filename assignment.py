@@ -6,9 +6,8 @@ else :
      print(year, "is not a leap year")
 
 #Program to check  whether a letter is a vowel or a consonant
-
-letter = "b"
-if (letter == "a" or letter == "e" or letter == "i" or letter == "o" or letter == "u"):
+letter = 'b'
+if (letter == 'a' or letter == 'e' or letter == 'i' or letter == 'o' or letter == 'u'):
     print(letter, "is a vowel")
 else:
     print(letter, "is a consonant")
